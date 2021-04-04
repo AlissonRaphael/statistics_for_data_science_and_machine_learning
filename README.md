@@ -1,9 +1,8 @@
 # Statistics for Data Science and Machine Learning
 
-![GitHub](https://img.shields.io/github/license/AlissonRaphael/statistics_for_data_science_and_machine_learning)
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/mypy)
-![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=lat-square&logo=Jupyter)
-
+[![GitHub](https://img.shields.io/github/license/AlissonRaphael/statistics_for_data_science_and_machine_learning)](https://github.com/AlissonRaphael/statistics_for_data_science_and_machine_learning/blob/main/LICENSE)
+[![Maintaner](https://img.shields.io/badge/Python-3.6-blue)](https://www.python.org/downloads/windows/)
+[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=lat-square&logo=Jupyter)](https://jupyter.org/install)
 
 This repository contains the main concepts and statistical calculations used in Data Science and Machine Learning. 
 
