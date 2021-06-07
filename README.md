@@ -4,7 +4,14 @@
 [![Maintaner](https://img.shields.io/badge/Python-3.6-blue)](https://www.python.org/downloads/windows/)
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=lat-square&logo=Jupyter)](https://jupyter.org/install)
 
-This repository contains the main concepts and statistical calculations used in Data Science and Machine Learning. 
+This repository contains the main concepts and statistical calculations used in Data Science and Machine Learning.
+
+![](https://github.com/AlissonRaphael/statistics_for_data_science_and_machine_learning/blob/main/readme-python-logo.jpg)
+![](https://github.com/AlissonRaphael/statistics_for_data_science_and_machine_learning/blob/main/readme-pandas-logo.jpg)
+![](https://github.com/AlissonRaphael/statistics_for_data_science_and_machine_learning/blob/main/readme-numpy-logo.jpg)
+![](https://github.com/AlissonRaphael/statistics_for_data_science_and_machine_learning/blob/main/readme-scipy-logo.jpg)
+![](https://github.com/AlissonRaphael/statistics_for_data_science_and_machine_learning/blob/main/readme-seaborn-logo.jpg)
+![](https://github.com/AlissonRaphael/statistics_for_data_science_and_machine_learning/blob/main/readme-sklearn-logo.jpg)
 
 ## Contents
 - [Online](#online)
